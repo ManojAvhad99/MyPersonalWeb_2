@@ -116,8 +116,8 @@ h3 {
 .lgm-info {
     position: relative;
     left: 100px;
-    bottom: 250px
-    /* text-align: right; */
+    bottom: 250px;
+    text-align: left;
 }
 .profile {
     position: relative;
